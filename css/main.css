@@ -40,6 +40,7 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
     
 .fa {
     padding: 20px;
@@ -47,7 +48,5 @@ ul.posts li {
     width: 30px;
     text-align: center;
     text-decoration: none;
-    border-radius: 50%;
-}
-    
+    border-radius: 50%;    
 }
