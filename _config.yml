@@ -1,2 +1,4 @@
 name: Ludia Tang
 markdown: kramdown
+
+theme: jekyll-theme-merlot
